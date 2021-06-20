@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <!-- LineageOS additions -->
   <project path="android" name="LineageOS/android" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
   <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" />
