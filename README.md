@@ -12,3 +12,4 @@
 另外， `ZiZhuOPENSOURCE OS` 拥有转换速度极快的Android兼容层，但并不意味着本系统就是Android套壳！
 
 还有，我们将雇 1919810 个水军说 `ZiZhuOPENSOURCE OS` 拥有 _快_ 到起飞的 `JvavKASAGDUAGDYUDIDSNVKDS++++++++++++++++++++++++++++++++++++++` 技术， 能让你按一下手机就能变成 **小魔仙**！（不过我们是不会承认这是我们雇人宣传的）
+
